@@ -1,0 +1,1 @@
+Place the .sql files in the Deploy folder in order to use by Jenkins Automated Jobs.
